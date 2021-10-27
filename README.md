@@ -44,7 +44,8 @@ Track on the path for the structuralia degree program
 >Pendiente
 ### MÓDULO 7: ECOSISTEMAS DE TECNOLOGÍAS
 ---
->Pendiente
+>STARTED
+>![19%](https://progress-bar.dev/19)
 ### MÓDULO 8: METODOLOGÍAS DE IDEACIÓN Y GESTIÓN DE PROYECTOS INTELIGENCIA ARTIFICIAL
 ---
 >Pendiente
