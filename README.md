@@ -13,7 +13,8 @@ Track on the path for the structuralia degree program
 * Arquitecturas tecnológicas Big Data
 * Big Data analytics
 ---
->Pendiente
+>STARTED
+>![12%](https://progress-bar.dev/12)
 ### MÓDULO 2: BASES DE DATOS RELACIONALES: SQL. DATAWAREHOUSE
 * Primeros pasos en SQL
 * Comandos SQL
@@ -45,7 +46,7 @@ Track on the path for the structuralia degree program
 ### MÓDULO 7: ECOSISTEMAS DE TECNOLOGÍAS
 ---
 >STARTED
->![19%](https://progress-bar.dev/19)
+>![26%](https://progress-bar.dev/26)
 ### MÓDULO 8: METODOLOGÍAS DE IDEACIÓN Y GESTIÓN DE PROYECTOS INTELIGENCIA ARTIFICIAL
 ---
 >Pendiente
