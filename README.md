@@ -21,8 +21,8 @@ Track on the path for the structuralia degree program
 * Funciones SQL
 * Diseño de un Datawarehouse
 ---
->STARTED
->![57%](https://progress-bar.dev/57)
+>(**FINALIZADO**) [Certificado Badge](https://cv.iklox.com/badges/badge.php?hash=1c5503da4d6884f653195ef4583c8e528f4f54e9)
+>![100%](https://progress-bar.dev/100)
 ### MÓDULO 3: BASES DE DATOS NOSQL Y HDFS
 * Introducción BBDD NOSQL     
 * Modelos de datos NOSQL     
